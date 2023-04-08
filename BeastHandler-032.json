@@ -886,7 +886,7 @@
         "radius": 0.0,
         "radiusSquared": 0.0,
         "range": 60.0,
-        "ignoreBlockers": false,
+        "ignoreBlockers": true,
         "isGlobalRange": false,
         "tier": 0,
         "tiers": [

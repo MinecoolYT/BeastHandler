@@ -996,7 +996,7 @@
         "radius": 0.0,
         "radiusSquared": 0.0,
         "range": 60.0,
-        "ignoreBlockers": false,
+        "ignoreBlockers": true,
         "isGlobalRange": false,
         "tier": 0,
         "tiers": [
@@ -1425,7 +1425,7 @@
                     "IsValid": true,
                     "guidRef": "c5a4f4f2c1a84fc489fce1a97293a57a"
                   },
-                  "scale": 0.0,
+                  "scale": 1.0,
                   "lifespan": 1.0,
                   "fullscreen": false,
                   "useCenterPosition": false,
@@ -1643,7 +1643,7 @@
                   "IsValid": true,
                   "guidRef": "c5a4f4f2c1a84fc489fce1a97293a57a"
                 },
-                "scale": 0.0,
+                "scale": 1.0,
                 "lifespan": 1.0,
                 "fullscreen": false,
                 "useCenterPosition": false,

@@ -1897,7 +1897,7 @@
                   "fullscreen": false,
                   "useCenterPosition": false,
                   "useTransformPosition": false,
-                  "useTransfromRotation": true,
+                  "useTransfromRotation": false,
                   "destroyOnTransformDestroy": false,
                   "alwaysUseAge": false,
                   "useRoundTime": false,

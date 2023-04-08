@@ -979,7 +979,7 @@
                                     "name": "SingleEmissionModel_",
                                     "ImplementationType": "Assets.Scripts.Simulation.Towers.Emissions.SingleEmission, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null"
                                   },
-                                  "intervalFrames": 0,
+                                  "intervalFrames": 18,
                                   "onlyIfHasTarget": false,
                                   "range": 0.0,
                                   "targetType": {
@@ -1634,7 +1634,7 @@
         "radius": 0.0,
         "radiusSquared": 0.0,
         "range": 60.0,
-        "ignoreBlockers": false,
+        "ignoreBlockers": true,
         "isGlobalRange": false,
         "tier": 0,
         "tiers": [
